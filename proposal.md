@@ -21,7 +21,31 @@ The economic significance is therefore not in dramatic, sector-wide collapses bu
 ---
 
 ## Analysis of Impacts
+### Employment and Task Channels
 
+AI affects the Australian labour market through two distinct mechanisms. **Substitution** occurs where AI fully replaces human labour — visible in Pilbara mining (autonomous haul trucks), manufacturing, and increasingly in routine cognitive roles such as data entry and basic bookkeeping. **Augmentation** occurs where AI complements rather than replaces workers — accountants, software developers, lawyers, and analysts use AI to accelerate tasks while retaining decision-making authority.
+
+This distinction matters because the same technology produces opposite labour market outcomes depending on how it is deployed. Substitution destroys jobs; augmentation raises productivity per worker.
+
+### Wages and Polarisation
+
+The labour market response follows basic supply-and-demand logic. When AI displaces routine workers, those workers enter the broader job market in search of similar roles. The increased supply of substitutable labour, combined with reduced demand from automating firms, drives wages downward across the affected occupation. By contrast, workers in augmented roles become more productive, and firms compete for their scarce skills — pushing those wages up.
+
+The result is **wage polarisation**: middle-skill routine workers see real wages stagnate or decline, while high-skill workers capturing AI's productivity benefits see strong wage growth. This hollowing-out of the middle is consistent with the task-based framework of Acemoglu and Autor [INSERT CITATION], and has been documented across OECD economies [INSERT OECD REFERENCE].
+
+### Industry Structure and the Capital–Labour Split
+
+AI's productivity gains accrue disproportionately to **capital owners** rather than labour. When a firm replaces 30 admin workers with AI tools, the firm retains the wage savings — distributed as higher margins, reinvestment, or shareholder returns. The displaced workers bear the adjustment costs personally. This shifts the **functional distribution of income** away from labour and toward capital, reinforcing a trend already observed across advanced economies over the past two decades.
+
+At an industry level, the firms best positioned to deploy AI at scale — large incumbents with capital, data, and technical talent — capture the largest gains. This risks increased market concentration in sectors where AI offers competitive advantage.
+
+### Distributional and Equity Considerations
+
+The burden of AI displacement falls unevenly. The Australian occupations most exposed to substitution — clerical and administrative work, retail, and routine cognitive services — are disproportionately staffed by **women, older workers, and those without tertiary qualifications** [INSERT ABS STAT]. These groups face a compounding disadvantage: the same characteristics that placed them in routine roles (lower digital literacy, fewer recent retraining opportunities) also reduce their capacity to transition into augmented or high-skill positions.
+
+Regional workers face an additional barrier. While displacement may be larger in absolute numbers in cities, regional workers have fewer alternative roles to move into, making structural unemployment harder to escape.
+
+Without intervention, AI risks entrenching existing inequalities along gender, age, education, and geographic lines, while simultaneously redistributing economic gains upward toward capital owners.
 
 ---
 
