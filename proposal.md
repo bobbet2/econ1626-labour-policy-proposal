@@ -12,7 +12,11 @@ Artificial intelligence is fundamentally reshaping the Australian labour market.
 ---
 
 ## Problem Definition & Context
+Artificial intelligence is changing the Australian labour market through two distinct channels. In some industries, AI **substitutes** for human labour entirely — exemplified by autonomous haul trucks in Pilbara mining operations and increasing automation in manufacturing. In others, AI **augments** workers by handling routine sub-tasks while complementing higher-order skills — visible in accounting, software development, and professional services.
 
+The bulk of substitution risk falls on Australia's largest occupational groups: clerical and administrative workers, retail and customer service staff, and routine cognitive roles such as bookkeeping and paralegal work. Together these represent [INSERT DATA/STATISTIC] of Australian employment. Unlike physical trades — which remain difficult to automate due to environmental variability — these roles consist largely of structured, predictable tasks that modern large language models can perform at scale, around the clock, and at near-zero marginal cost.
+
+The economic significance is therefore not in dramatic, sector-wide collapses but in the **steady erosion of routine task demand** across high-employment service occupations. Without intervention, this transition will outpace workers' ability to retrain, producing structural unemployment, downward pressure on wages in adjacent roles, and rising welfare expenditure for the Commonwealth.
 
 ---
 
