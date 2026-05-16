@@ -7,7 +7,7 @@
 ---
 
 ## Executive Summary
-
+Artificial intelligence is fundamentally reshaping the Australian labour market. Advances in large language models and cloud computing have enabled AI to autonomously execute cognitive and administrative tasks with greater precision, at lower cost, and without wages — accelerating the displacement of routine workers at an unprecedented rate. Administrative and autonomous-task roles face the greatest exposure, as the range of transferable skills for displaced workers narrows significantly. Left unmanaged, this structural unemployment will increase welfare dependency and fiscal pressure on government. This proposal recommends a three-part policy response: a national reskilling program, transition income support for displaced workers, and responsible AI deployment standards for firms.
 
 ---
 
