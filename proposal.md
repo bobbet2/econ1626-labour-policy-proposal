@@ -129,3 +129,12 @@ The recommended package to reduce the negative impacts of AI adoption, would be 
 ---
 
 ## References
+
+ABS (2022) Jobs in Australia, Australian Bureau of Statistics, https://www.abs.gov.au/statistics/labour/jobs/jobs-australia/2022-23#industry, accessed 16 May 2026.
+
+Marguerit D (2025) ‘Augmenting or Automating Labor? The Effect of AI Development on New Work, Employment, and Wages’, SSRN Electronic Journal, doi:https://doi.org/10.2139/ssrn.5169611.
+
+Verdegem P (2022) ‘Dismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech’, AI & SOCIETY, 39(2):727–737, doi:https://doi.org/10.1007/s00146-022-01437-8.
+
+## AI Acknowledgement
+Generative AI (Claude, Anthropic) was used during the drafting of this proposal to assist with the structure, organisation, and brainstorming of ideas. All research, resources, and reasoning was conducted by the author.
