@@ -119,6 +119,13 @@ The recommended package to reduce the negative impacts of AI adoption, would be 
 
 ## Risks & Mitigations
 
+| Risk | Likelihood | Mitigation |
+|------|:-:|-----------|
+| **Reskilling does not match real labour demand** — workers retrain into roles that AI also displaces | Medium | Jobs and Skills Australia to publish annual priority occupations list; eligible training restricted to verified growth areas |
+| **Firms claim augmentation incentive while still reducing workforce** | High | Independent audit by ATO; clawback provisions for firms that reduce headcount within 3 years of claim |
+| **Wage insurance discourages workers from seeking higher-paying roles** | Medium | Time-limited (max 24 months) and tapered; benefit reduces over time to maintain job-search incentive |
+| **Fiscal cost exceeds projections** | Medium | Annual Productivity Commission review; sunset clause on augmentation incentive after 5 years subject to re-authorisation |
+| **Regional workers underserved by city-based TAFE delivery** | High | Mandate regional and online delivery quotas within the National Reskilling Program |
 
 ---
 
