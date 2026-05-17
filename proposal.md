@@ -82,8 +82,33 @@ There is no single option that can address every problem that has been identifie
 
 ---
 
+
 ## Recommended Package & Implementation Plan
 
+This proposal recommends adopting **all three policy options as an integrated package**, sequenced to address short-, medium-, and long-term displacement effects.
+
+### Recommended Sequencing
+
+| Phase | Timeline | Lead Agency | Action |
+|-------|----------|-------------|--------|
+| **Phase 1** | 0–12 months | DEWR + Services Australia | Establish Portable Transition Wage Insurance to provide immediate cushioning |
+| **Phase 2** | 6–24 months | DEWR + Department of Education | Scale National Reskilling Program through TAFE and accredited short-course providers |
+| **Phase 3** | 12–36 months | Treasury + Industry, Science & Resources | Legislate Augmentation-First Investment Incentive via tax system |
+
+### Responsibilities
+
+- **DEWR** — overall coordination and policy ownership.
+- **Treasury** — design and administer the tax incentive component.
+- **Services Australia** — deliver wage insurance payments through existing welfare infrastructure.
+- **Jobs and Skills Australia** — identify priority occupations and skills gaps.
+- **Productivity Commission** — independent review of program effectiveness at 24 and 48 months.
+
+### Key Performance Indicators
+
+- Reduction in long-term unemployment among workers from high-substitution occupations.
+- Increase in workforce participation in AI-augmented roles.
+- Share of firms claiming the augmentation incentive demonstrating workforce growth or stability.
+- Wage trajectory of workers receiving transition insurance, relative to comp
 
 ---
 
