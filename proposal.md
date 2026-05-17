@@ -46,13 +46,37 @@ The large-scale adoption of AI reinforces a monopolistic or oligopolistic struct
 
 ---
 
+
 ## Policy Options
 
-| Policy | Efficiency | Equity | Feasibility | Cost |
-|--------|-----------|--------|-------------|------|
-| Option 1 | | | | |
-| Option 2 | | | | |
-| Option 3 | | | | |
+This proposal evaluates three policy options against four criteria: **efficiency** (does the policy achieve its goal at reasonable cost?), **equity** (does it support those most affected?), **feasibility** (is it politically and administratively achievable?), and **fiscal cost** (the burden on government).
+
+### Option 1 — National Reskilling Program
+
+A Commonwealth-funded retraining program targeting workers in occupations facing high AI substitution risk. Delivered through the existing TAFE network, supplemented with short-course providers, the program would subsidise re-training into AI-augmented or non-substitutable roles (healthcare, trades, skilled professional services), provide career counselling, and include job-matching services. Eligibility would be triggered by occupational displacement signals rather than individual job loss, allowing pre-emptive transition.
+
+### Option 2 — Augmentation-First AI Investment Incentive
+
+A targeted tax incentive directing the **deployment** of AI within Australian firms. Building on Acemoglu and Restrepo's argument that the direction of technological change is itself a policy variable, this option would boost R&D tax offsets and capital deductions for firms adopting AI tools that complement workers (augmentation) rather than fully replace them (substitution). Eligibility would require firms to maintain or grow their workforce alongside AI investment, with independent audit. This shifts firm incentives toward labour-complementary AI without restricting AI adoption itself.
+
+### Option 3 — Portable Transition Wage Insurance
+
+A wage insurance scheme that tops up the income of displaced workers who take a lower-paying role during retraining or transition, for a defined period (12–24 months). Unlike traditional unemployment benefits, the scheme keeps workers attached to the labour market, preserves human capital, and reduces welfare expenditure relative to long-term unemployment support. The scheme would be funded by a modest levy on firms above a productivity threshold benefitting from AI deployment, partially internalising the externality identified earlier.
+
+### Evaluation Matrix
+
+| Criterion | Reskilling Program | Augmentation Incentive | Wage Insurance |
+|-----------|:-:|:-:|:-:|
+| **Efficiency** | High (proven instrument) | Medium (slow to bite) | High (low admin cost) |
+| **Equity** | High (targets affected groups) | Low–Medium (helps indirectly) | High (direct support) |
+| **Feasibility** | High (existing TAFE infrastructure) | Medium (complex tax design) | Medium (requires welfare reform) |
+| **Fiscal Cost** | High (training is expensive) | Medium (foregone tax revenue) | Medium (offsetting welfare savings) |
+| **Speed of impact** | Slow (1–3 years) | Slow (3–5 years) | Fast (immediate cushion) |
+
+### Trade-offs
+
+No single option addresses every problem identified in the analysis. **Reskilling** rebuilds human capital but is slow and costly; **augmentation incentives** shape long-run AI deployment but offer little to currently displaced workers; **wage insurance** cushions the transition but does not create new opportunities by itself. Crucially, the options are **complementary rather than substitutable**: wage insurance buys time for reskilling to take effect, while augmentation incentives reduce the future flow of displacement these other instruments must absorb.
+
 
 ---
 
