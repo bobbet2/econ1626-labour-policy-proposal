@@ -67,7 +67,7 @@ A program funded by the commonwealth, that aims to help displaced workers by ins
 
 ### Evaluation Matrix
 
-| Criterion | Reskilling Program | Augmentation Incentive | Wage Insurance |
+| Criterion | Reskilling Program | Augmentation Incentive | AI Redundancy Wage Insurance |
 |-----------|:-:|:-:|:-:|
 | **Efficiency** | High (reskilling programs have been proven to be effective) | Medium (slow adoption) | High (admin costs are low) |
 | **Equity** | High (targets the negatively affected groups) | Low–Medium (helps indirectly) | High (direct support) |
@@ -85,30 +85,35 @@ There is no single option that can address every problem that has been identifie
 
 ## Recommended Package & Implementation Plan
 
-This proposal recommends adopting **all three policy options as an integrated package**, sequenced to address short-, medium-, and long-term displacement effects.
+The recommended package to reduce the negative impacts of AI adoption, would be to implement all three policy options.
 
 ### Recommended Sequencing
 
 | Phase | Timeline | Lead Agency | Action |
 |-------|----------|-------------|--------|
-| **Phase 1** | 0–12 months | DEWR + Services Australia | Establish Portable Transition Wage Insurance to provide immediate cushioning |
-| **Phase 2** | 6–24 months | DEWR + Department of Education | Scale National Reskilling Program through TAFE and accredited short-course providers |
-| **Phase 3** | 12–36 months | Treasury + Industry, Science & Resources | Legislate Augmentation-First Investment Incentive via tax system |
+| **Phase 1** | 0–12 months | DEWR + Services Australia | Roll out the AI Redundancy Insurance program to effectively and immediately relieve workers from termination|
+| **Phase 2** | 6–24 months | DEWR + Department of Education | Implement and market the National Upskilling/Reskilling Program, and reach out to workers displaced and at risk of displacement through the government-side flagging system|
+| **Phase 3** | 12–36 months | Treasury + Industry, Science & Resources | Implement the tax system for the AI-Augmentation Incentive program within the legislation |
 
 ### Responsibilities
 
-- **DEWR** — overall coordination and policy ownership.
-- **Treasury** — design and administer the tax incentive component.
-- **Services Australia** — deliver wage insurance payments through existing welfare infrastructure.
-- **Jobs and Skills Australia** — identify priority occupations and skills gaps.
-- **Productivity Commission** — independent review of program effectiveness at 24 and 48 months.
+- **DEWR** — coordinate and manage the ownership of the policy
+- **Treasury** — create the incentive tax system and administer it
+- **Services Australia** — deliver wage insurance payments through the infrastructure utilised for welfare distribution
+- **Jobs and Skills Australia** — identify the occupations most at risk of displacement
+- **Productivity Commission** — analyse and review the effectiveness and progress of the program package
 
 ### Key Performance Indicators
 
-- Reduction in long-term unemployment among workers from high-substitution occupations.
-- Increase in workforce participation in AI-augmented roles.
-- Share of firms claiming the augmentation incentive demonstrating workforce growth or stability.
-- Wage trajectory of workers receiving transition insurance, relative to comp
+- A reduction in the long-term unemployment of workers in occupations most prone to Substitution
+- An increase in the number of firms that utilise AI-augmented roles
+- An increase in the number of workers in AI-augmented roles
+- Percentage difference in workers receiving AI Redundancy Insurance vs not
+
+
+
+
+
 
 ---
 
