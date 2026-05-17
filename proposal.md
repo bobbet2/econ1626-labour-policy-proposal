@@ -19,20 +19,20 @@ Substitution presents a great risk to the job security of a large percentage of 
 ---
 
 ## Analysis of Impacts
-##Employment and Task
+## Employment and Task
 AI directly disrupts the employment of workers and the tasks a role requires. The first is through Substitution, where in the case of a data entry clerk’s tasks, AI can streamline routine workflows like data entry, reduce errors in data being recorded, and can record data around-the-clock. Retail workers face the same Substitution risk, where in the case of a customer service assistant, they are prone to being completely replaced with AI chat bots. Both these roles outline how AI negatively impacts the employment of certain jobs through Substitution.
 The second key AI impact mechanism is augmentation, where AI directly complements a worker’s role. This consists of positions like accountants, software developers, or analysts, which leverage AI to increase the efficiency of tasks, however, require a human decision to finalise a process. In the case of a software developer, AI can speed up the development of code, however the developer needs to review and finalise the code to ensure it meets the tasks requirements. These roles are now more attractive to employers, due to the increased productivities gained from implementing AI alongside the workers. These roles highlight how AI can positively influence the employment of certain jobs through augmentation.
 AI implementation impacts the labour market with opposing results: Jobs are either displaced as AI is more efficient, or jobs increase in productivity through streamlined processes.
 
-##Wages
+## Wages
 Wages are indirectly impacted through a supply-and-demand effect. Substitution-impacted workers are forced to pursue similar positions that require the same skills. This increases the number of workers searching for a specific role by funnelling in all Substitute impacted job seekers, saturating that role, broadening the job market, and increasing the supply of potential workers for a certain role. The demand of workers also decreases for firms, as AI provides more efficient and effective results. (Marguerit 2025) affirms in an article that these factors drive wages down.
 In contrast, workers in augmented positions benefit from AI implementation. With more effective and efficient work processes, these roles are highly regarded for their newly recognised productivity gains. The supply for these roles decreases and the demand for them increase, ultimately driving the wages for them up as highlighted in a article by (Marguerit 2025).
 
-##Distributional and Equity Considerations
+## Distributional and Equity Considerations
 The impacts of AI can negatively impact specific groups to a greater degree, displacing the balance of equity in the economy. Substitution predominantly impacts administrative and retail occupations – two areas of the labour market that are disproportionally staffed by individuals without tertiary qualifications, women, and older demographics as seen in the ABS’s ‘Number of employed persons per selected occupation of main job by sex, 2022-23’ graph (ABS 2022). Without a tertiary qualification this of group individuals face greater friction, as they are unable to transition to roles that have augmented alongside AI.
 Furthermore, regional workers face an additional hurdle. Displacement is prevalent in greater numbers in cities, however the due to the nature of regional locations having fewer alternative roles, these individuals face greater friction from structural unemployment.
 
-##Industry Structure 
+## Industry Structure 
 The large-scale adoption of AI reinforces a monopolistic or oligopolistic structure for industries that adopt it. AI is scaled through capital, computing power, and data; therefore, firms that have the greatest access to these resources can hold the largest percentage of a market share. This leads to a closed system where the barrier for entry is high, and the largest firms can enforce a monopoly or oligopoly. An article by (Verdegem 2022) highlights this, where AI adoption commodifies data and leads to a ‘winner takes all principle’.
 
 
