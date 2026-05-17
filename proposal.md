@@ -121,11 +121,10 @@ The recommended package to reduce the negative impacts of AI adoption, would be 
 
 | Risk | Likelihood | Mitigation |
 |------|:-:|-----------|
-| **Reskilling does not match real labour demand** — workers retrain into roles that AI also displaces | Medium | Jobs and Skills Australia to publish annual priority occupations list; eligible training restricted to verified growth areas |
-| **Firms claim augmentation incentive while still reducing workforce** | High | Independent audit by ATO; clawback provisions for firms that reduce headcount within 3 years of claim |
-| **Wage insurance discourages workers from seeking higher-paying roles** | Medium | Time-limited (max 24 months) and tapered; benefit reduces over time to maintain job-search incentive |
-| **Fiscal cost exceeds projections** | Medium | Annual Productivity Commission review; sunset clause on augmentation incentive after 5 years subject to re-authorisation |
-| **Regional workers underserved by city-based TAFE delivery** | High | Mandate regional and online delivery quotas within the National Reskilling Program |
+| **Reskilling does not match the demand for roles** — workers go through training into new roles, however those roles are also substitute positions | Medium | Jobs and Skills Australia can provide an annual occupation list that highlights the occupations that are in high priority, large room for growth, and can be easily trained against the upskilling/reskilling courses.
+| **Firms claim that they are utilising the augmentation incentive and employing AI alongside workers, however they are still displacing workers** | High | The ATO can conduct audits that can identify the number of workers to spot any false claims|
+| **Wage insurance discourages workers from seeking higher-paying roles** | Medium | The AI Redundancy Insurance Program is set to a 12-24 month period (24 max), therefore is a limited time program. The insurance can also be reduced over time to motivate workers to seek a new occupation.
+
 
 ---
 
