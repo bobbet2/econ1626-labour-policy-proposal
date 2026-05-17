@@ -1,6 +1,7 @@
 # AI and the Future of Work: A Policy Proposal for the Australian Labour Market
 
 **To:** Deputy Secretary, Department of Employment and Workplace Relations (DEWR)
+
 **From:** Bobby Chang  
 **Date:** May 2026  
 
