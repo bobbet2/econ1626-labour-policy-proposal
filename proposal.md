@@ -49,19 +49,20 @@ The large-scale adoption of AI reinforces a monopolistic or oligopolistic struct
 
 ## Policy Options
 
-This proposal evaluates three policy options against four criteria: **efficiency** (does the policy achieve its goal at reasonable cost?), **equity** (does it support those most affected?), **feasibility** (is it politically and administratively achievable?), and **fiscal cost** (the burden on government).
+This proposal evaluates three policy options against a 5 criteria’s: efficiency (does this policy achieve its goal?), equity (will this policy support those in greater needs?, feasibility (is this policy administratively feasible?), fiscal cost (is this policy high in cost?), and the speed of impact (how long until the effects of this policy will be felt?) 
 
-### Option 1 — National Reskilling Program
 
-A Commonwealth-funded retraining program targeting workers in occupations facing high AI substitution risk. Delivered through the existing TAFE network, supplemented with short-course providers, the program would subsidise re-training into AI-augmented or non-substitutable roles (healthcare, trades, skilled professional services), provide career counselling, and include job-matching services. Eligibility would be triggered by occupational displacement signals rather than individual job loss, allowing pre-emptive transition.
+### Option 1 — National Upskilling/Reskilling Program 
 
-### Option 2 — Augmentation-First AI Investment Incentive
+A program aimed at retraining displaced workers that are at risk of substitution. This program will provide the necessary training and education required to transition workers to an augmented-ai role, or a role within another industry that does not experience the negative effects of AI (e.g trades or healthcare). This program will be funded by the Commonwealth and utilise TAFE and short-course providers to provide the resources and facilities necessary. To allow a smooth and secure transition for workers, eligibility will be dependent on signals that forecast job displacement which flag government institutions.
 
-A targeted tax incentive directing the **deployment** of AI within Australian firms. Building on Acemoglu and Restrepo's argument that the direction of technological change is itself a policy variable, this option would boost R&D tax offsets and capital deductions for firms adopting AI tools that complement workers (augmentation) rather than fully replace them (substitution). Eligibility would require firms to maintain or grow their workforce alongside AI investment, with independent audit. This shifts firm incentives toward labour-complementary AI without restricting AI adoption itself.
+### Option 2 — AI-Augmentation Incentive Program 
 
-### Option 3 — Portable Transition Wage Insurance
+A tax program which incentivises firms to adopt AI alongside existing workers, rather than substituting workers. Eligibility for this program will be reviewed with monthly government audits.  
 
-A wage insurance scheme that tops up the income of displaced workers who take a lower-paying role during retraining or transition, for a defined period (12–24 months). Unlike traditional unemployment benefits, the scheme keeps workers attached to the labour market, preserves human capital, and reduces welfare expenditure relative to long-term unemployment support. The scheme would be funded by a modest levy on firms above a productivity threshold benefitting from AI deployment, partially internalising the externality identified earlier.
+
+### Option 3 — AI Redundancy Insurance Program
+A program funded by the commonwealth, that aims to help displaced workers by insuring firms with the costs behind workers’ wages. This program will revolve around a 12-24 month period, and provide ample time for displaced to transition to another occupation.
 
 ### Evaluation Matrix
 
