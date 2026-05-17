@@ -64,7 +64,6 @@ A tax program which incentivises firms to adopt AI alongside existing workers, r
 ### Option 3 — AI Redundancy Insurance Program
 A program funded by the commonwealth, that aims to help displaced workers by insuring firms with the costs behind workers’ wages. This program will revolve around a 12-24 month period, and provide ample time for displaced to transition to another occupation.
 
-### Evaluation Matrix
 
 ### Evaluation Matrix
 
@@ -76,9 +75,9 @@ A program funded by the commonwealth, that aims to help displaced workers by ins
 | **Fiscal Cost** | High (cost of training can be high) | Medium (foregone tax revenue) | Medium (welfare can have medium sized costs) |
 | **Speed of impact** | Slow (1–3 years) | Slow (3–5 years) | Fast (immediately felt) |
 
-### Trade-offs
+### Trade-offs 
 
-No single option addresses every problem identified in the analysis. **Reskilling** rebuilds human capital but is slow and costly; **augmentation incentives** shape long-run AI deployment but offer little to currently displaced workers; **wage insurance** cushions the transition but does not create new opportunities by itself. Crucially, the options are **complementary rather than substitutable**: wage insurance buys time for reskilling to take effect, while augmentation incentives reduce the future flow of displacement these other instruments must absorb.
+There is no single option that can address every problem that has been identified in the analysis. The upskilling/reskilling program is an effective way to address the employability issues derived from AI substitution; however it is slow to implement and is costly. The Augmentation incentive program is effective in creating an environment where AI and humans work to create exponential productivity gains, however existing displaced workers have minimal benefits to this. The wage insurance program is effective at supporting disadvantaged groups and has low administration requirements, however is a temporary fix that delays rather than solves the displacement issue as a whole.
 
 
 ---
