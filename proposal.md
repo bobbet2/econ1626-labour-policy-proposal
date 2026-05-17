@@ -66,13 +66,8 @@ A program funded by the commonwealth, that aims to help displaced workers by ins
 
 ### Evaluation Matrix
 
-| Criterion | Reskilling Program | Augmentation Incentive | Wage Insurance |
-|-----------|:-:|:-:|:-:|
-| **Efficiency** | High (proven instrument) | Medium (slow to bite) | High (low admin cost) |
-| **Equity** | High (targets affected groups) | Low–Medium (helps indirectly) | High (direct support) |
-| **Feasibility** | High (existing TAFE infrastructure) | Medium (complex tax design) | Medium (requires welfare reform) |
-| **Fiscal Cost** | High (training is expensive) | Medium (foregone tax revenue) | Medium (offsetting welfare savings) |
-| **Speed of impact** | Slow (1–3 years) | Slow (3–5 years) | Fast (immediate cushion) |
+### Evaluation Matrix
+| Criterion | Reskilling Program | Augmentation Incentive | Wage Insurance | |-----------|:-:|:-:|:-:| | **Efficiency** | High (reskilling programs have been proven to be effective) | Medium (slow adoption) | High (admin costs are low) | | **Equity** | High (targets the negatively affected groups) | Low–Medium (helps indirectly) | High (direct support) | | **Feasibility** | High (existing TAFE and short-course facilities) | Medium (designing this tax system can be complicated) | Medium (needs an update to the structure of welfare) | | **Fiscal Cost** | High (cost of training can be high) | Medium (foregone tax revenue) | Medium (welfare can have medium sized costs) | | **Speed of impact** | Slow (1–3 years) | Slow (3–5 years) | Fast (immediately felt) | 
 
 ### Trade-offs
 
