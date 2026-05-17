@@ -19,31 +19,22 @@ Substitution presents a great risk to the job security of a large percentage of 
 ---
 
 ## Analysis of Impacts
-### Employment and Task Channels
+##Employment and Task
+AI directly disrupts the employment of workers and the tasks a role requires. The first is through Substitution, where in the case of a data entry clerk’s tasks, AI can streamline routine workflows like data entry, reduce errors in data being recorded, and can record data around-the-clock. Retail workers face the same Substitution risk, where in the case of a customer service assistant, they are prone to being completely replaced with AI chat bots. Both these roles outline how AI negatively impacts the employment of certain jobs through Substitution.
+The second key AI impact mechanism is augmentation, where AI directly complements a worker’s role. This consists of positions like accountants, software developers, or analysts, which leverage AI to increase the efficiency of tasks, however, require a human decision to finalise a process. In the case of a software developer, AI can speed up the development of code, however the developer needs to review and finalise the code to ensure it meets the tasks requirements. These roles are now more attractive to employers, due to the increased productivities gained from implementing AI alongside the workers. These roles highlight how AI can positively influence the employment of certain jobs through augmentation.
+AI implementation impacts the labour market with opposing results: Jobs are either displaced as AI is more efficient, or jobs increase in productivity through streamlined processes.
 
-AI affects the Australian labour market through two distinct mechanisms. **Substitution** occurs where AI fully replaces human labour — visible in Pilbara mining (autonomous haul trucks), manufacturing, and increasingly in routine cognitive roles such as data entry and basic bookkeeping. **Augmentation** occurs where AI complements rather than replaces workers — accountants, software developers, lawyers, and analysts use AI to accelerate tasks while retaining decision-making authority.
+##Wages
+Wages are indirectly impacted through a supply-and-demand effect. Substitution-impacted workers are forced to pursue similar positions that require the same skills. This increases the number of workers searching for a specific role by funnelling in all Substitute impacted job seekers, saturating that role, broadening the job market, and increasing the supply of potential workers for a certain role. The demand of workers also decreases for firms, as AI provides more efficient and effective results. (Marguerit 2025) affirms in an article that these factors drive wages down.
+In contrast, workers in augmented positions benefit from AI implementation. With more effective and efficient work processes, these roles are highly regarded for their newly recognised productivity gains. The supply for these roles decreases and the demand for them increase, ultimately driving the wages for them up as highlighted in a article by (Marguerit 2025).
 
-This distinction matters because the same technology produces opposite labour market outcomes depending on how it is deployed. Substitution destroys jobs; augmentation raises productivity per worker.
+##Distributional and Equity Considerations
+The impacts of AI can negatively impact specific groups to a greater degree, displacing the balance of equity in the economy. Substitution predominantly impacts administrative and retail occupations – two areas of the labour market that are disproportionally staffed by individuals without tertiary qualifications, women, and older demographics as seen in the ABS’s ‘Number of employed persons per selected occupation of main job by sex, 2022-23’ graph (ABS 2022). Without a tertiary qualification this of group individuals face greater friction, as they are unable to transition to roles that have augmented alongside AI.
+Furthermore, regional workers face an additional hurdle. Displacement is prevalent in greater numbers in cities, however the due to the nature of regional locations having fewer alternative roles, these individuals face greater friction from structural unemployment.
 
-### Wages and Polarisation
+##Industry Structure 
+The large-scale adoption of AI reinforces a monopolistic or oligopolistic structure for industries that adopt it. AI is scaled through capital, computing power, and data; therefore, firms that have the greatest access to these resources can hold the largest percentage of a market share. This leads to a closed system where the barrier for entry is high, and the largest firms can enforce a monopoly or oligopoly. An article by (Verdegem 2022) highlights this, where AI adoption commodifies data and leads to a ‘winner takes all principle’.
 
-The labour market response follows basic supply-and-demand logic. When AI displaces routine workers, those workers enter the broader job market in search of similar roles. The increased supply of substitutable labour, combined with reduced demand from automating firms, drives wages downward across the affected occupation. By contrast, workers in augmented roles become more productive, and firms compete for their scarce skills — pushing those wages up.
-
-The result is **wage polarisation**: middle-skill routine workers see real wages stagnate or decline, while high-skill workers capturing AI's productivity benefits see strong wage growth. This hollowing-out of the middle is consistent with the task-based framework of Acemoglu and Autor [INSERT CITATION], and has been documented across OECD economies [INSERT OECD REFERENCE].
-
-### Industry Structure and the Capital–Labour Split
-
-AI's productivity gains accrue disproportionately to **capital owners** rather than labour. When a firm replaces 30 admin workers with AI tools, the firm retains the wage savings — distributed as higher margins, reinvestment, or shareholder returns. The displaced workers bear the adjustment costs personally. This shifts the **functional distribution of income** away from labour and toward capital, reinforcing a trend already observed across advanced economies over the past two decades.
-
-At an industry level, the firms best positioned to deploy AI at scale — large incumbents with capital, data, and technical talent — capture the largest gains. This risks increased market concentration in sectors where AI offers competitive advantage.
-
-### Distributional and Equity Considerations
-
-The burden of AI displacement falls unevenly. The Australian occupations most exposed to substitution — clerical and administrative work, retail, and routine cognitive services — are disproportionately staffed by **women, older workers, and those without tertiary qualifications** [INSERT ABS STAT]. These groups face a compounding disadvantage: the same characteristics that placed them in routine roles (lower digital literacy, fewer recent retraining opportunities) also reduce their capacity to transition into augmented or high-skill positions.
-
-Regional workers face an additional barrier. While displacement may be larger in absolute numbers in cities, regional workers have fewer alternative roles to move into, making structural unemployment harder to escape.
-
-Without intervention, AI risks entrenching existing inequalities along gender, age, education, and geographic lines, while simultaneously redistributing economic gains upward toward capital owners.
 
 ---
 
